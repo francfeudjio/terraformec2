@@ -1,0 +1,5 @@
+ami          = "ami-05fa00d4c63e32376"
+region       = "us-east-1"
+keyname      = "Friday"
+instanceType = "t2.micro"
+Name         = "Test-server"
